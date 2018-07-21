@@ -1,0 +1,14 @@
+.container {
+    background-color: #c1c1c1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px
+}
+
+.btn {
+    background-color: orange;
+    color: #fff;
+    font-size: 40px;
+    padding: 20px 40px;
+}
